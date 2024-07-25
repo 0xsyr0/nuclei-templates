@@ -1,5 +1,5 @@
 <p align="left">
-  <img width="400"height="250" src="images/nuclei-logo.png">
+  <img width="300"height="100" src="images/nuclei-logo.png">
 </p>
 
 # nuclei-templates
