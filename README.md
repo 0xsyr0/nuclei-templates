@@ -1,12 +1,8 @@
-<p align="center">
-  <img width="200" src="images/nuclei-logo.png">
+<p align="left">
+  <img width="400"height="250" src="images/nuclei-logo.png">
 </p>
 
-<h1 align="center">
-nuclei-templates
-</h1>
-
----
+# nuclei-templates
 
 A collection of useful nuclei templates.
 
