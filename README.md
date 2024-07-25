@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img width="200" src="images/nuclei-logo.png">
 </p>
 
